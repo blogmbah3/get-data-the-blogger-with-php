@@ -1,1 +1,1 @@
-# Inserindo Informações do Blogspot em seu Website com PHP.
+# Inserindo Informações do Blogspot em seu Website com PHP - XML
