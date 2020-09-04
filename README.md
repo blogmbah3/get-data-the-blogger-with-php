@@ -1,2 +1,1 @@
-# blogger-website-xml
-Inserindo informações do Blogger em seu Website
+# Inserindo Informações do Blogspot em seu Website com PHP.
